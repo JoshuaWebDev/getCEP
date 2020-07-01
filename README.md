@@ -1,5 +1,5 @@
 # getCEP
-Biblioteca desenvolvida em PHP para obtenção de informações de um endereço por meio do Código de Endereçamento Posta (CEP) via método get.
+Biblioteca desenvolvida em PHP para obtenção de informações de um endereço por meio do Código de Endereçamento Postal (CEP) via método get.
 
 ## Motivação
 
