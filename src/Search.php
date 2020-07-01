@@ -1,6 +1,6 @@
 <?php
 
-namespace Joshua\GetCep;
+namespace JoshuaWebDev\GetCep;
 
 class Search
 {

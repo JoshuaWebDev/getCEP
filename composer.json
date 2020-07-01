@@ -1,5 +1,5 @@
 {
-    "name": "joshua/get-cep",
+    "name": "JoshuaWebDev/get-cep",
     "description": "Biblioteca desenvolvida em PHP para obtenção de informações de um endereço por meio do Código de Enderçamento Posta (CEP) via método get",
     "type": "library",
     "authors": [
@@ -16,7 +16,7 @@
             "Search": "src/"
         },
         "psr-4": {
-            "Joshua\\GetCep\\": "src/" 
+            "JoshuaWebDev\\GetCep\\": "src/" 
         }
     }
 }
